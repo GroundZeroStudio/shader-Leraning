@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Renderding/12 Semitransparent Shadows/3.Optional Semitransparent Shadows/Optional
+    Semitransparent.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
